@@ -25,3 +25,18 @@ economic geography
 
   Draws a three dimensional version of a wiggle diagram in a two country 
   version of the model in Monte, Redding and Rossi-Hansberg 2018.
+
+- CES_for_trade:
+
+  Draws indifference curves for a two-goods CES utility 
+  
+- DFS for trade:
+
+  Draws relative productivities (A-curve) in  a Dornbusch-Fischer-Samuelson
+  model, parameterized as in the appendix to Dekle, Eaton and Kortum (2007)
+  
+- EK for trade:
+
+  Exemplifies how random draws of productivities from a Fréchet distribution
+  in a two-country version of the Eaton-Kortum model lead to a smooth A-curve
+  of relative producitivities
